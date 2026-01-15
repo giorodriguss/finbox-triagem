@@ -44,7 +44,7 @@ Tudo isso com foco em **clareza visual, feedback imediato e UX simples**.
 ## 🔗 Links Rápidos
 
 * 🌐 **Aplicação Online (Deploy em Nuvem):**
-  👉 *[Render:](https://finbox-triagem.onrender.com/)*
+  👉 *[https://finbox-triagem.onrender.com/](https://finbox-triagem.onrender.com/)*
 
 "Nota sobre a Hospedagem: O projeto está no plano gratuito do Render. O primeiro acesso pode levar cerca de 1 minuto devido ao 'Cold Start' (hibernação) do servidor."
 ---
